@@ -43,14 +43,15 @@
   <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" 
        alt="Contribution Snake" 
        width="100%" 
-       style="border-radius: 12px; filter: drop-shadow(0 0 15px rgba(34, 211, 238, 0.5)); transition: all 0.3s ease;"/>
+       style="border-radius: 15px; box-shadow: 0 0 25px rgba(34, 211, 238, 0.4); animation: pulse 2s ease-in-out infinite;"/>
 </div>
-  
-  <p style="color: #22D3EE; font-size: 14px; margin-top: 15px;">
-    <em>Follow my coding journey through time</em>
-  </p>
-  
-</div>
+
+<style>
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.02); opacity: 0.9; }
+}
+</style>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer"/>
