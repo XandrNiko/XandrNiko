@@ -30,21 +30,11 @@
       <td><img src="https://github-readme-stats.shion.dev/api?username=XandrNiko&theme=dark&hide_border=true&title_color=22D3EE&icon_color=22D3EE" alt="Stats" width="100%"/></td>
       <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XandrNiko&theme=dark&hide_border=true&title_color=22D3EE&layout=compact" alt="Langs" width="100%"/></td>
     </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=XandrNiko&theme=dark&hide_border=true&ring=22D3EE&fire=22D3EE" alt="Streak" width="100%"/></td>
-    </tr>
   </table
   <br>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" 
-       alt="Contribution Snake" 
-       width="100%" 
-       style="border-radius: 15px; box-shadow: 0 0 25px rgba(34, 211, 238, 0.4); animation: pulse 2s ease-in-out infinite;"/>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer"/>
