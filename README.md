@@ -9,7 +9,7 @@
   <br><br>
   
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;C%2B%2B+%26+Python+Enthusiast;Game+Dev+%26+Systems+Programming;Building+Scalable+Solutions;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;C%2B%2B+%26+Python+Enthusiast;Game+Dev+%26+Systems+Programming;Building+Scalable+Solutions;Open+Source+Follower;Always+Learning)](https://git.io/typing-svg)
   
   <br>
   
@@ -36,7 +36,6 @@
   </table>
   
   <br>
-  [![Profile Views](https://komarev.com/ghpvc/?username=XandrNiko&label=Profile+Views&color=22D3EE&style=for-the-badge&logo=github)](https://github.com/XandrNiko)
 </div>
 
 ---
