@@ -33,14 +33,34 @@
     <tr>
       <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=XandrNiko&theme=dark&hide_border=true&ring=22D3EE&fire=22D3EE" alt="Streak" width="100%"/></td>
     </tr>
-  </table>
-
-  <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Langs" width="100%"/>
-  
+  </table
   <br>
 </div>
 
 ---
+
+<div align="center">
+  
+  ## Contribution Activity
+  
+  <div style="position: relative; display: inline-block; padding: 20px; background: linear-gradient(135deg, rgba(34, 211, 238, 0.1), rgba(124, 58, 237, 0.1)); border-radius: 20px; border: 2px solid #22D3EE; box-shadow: 0 0 40px rgba(34, 211, 238, 0.2);">
+    
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" 
+         alt="Contribution Snake" 
+         width="100%" 
+         style="border-radius: 12px; display: block;"/>
+    
+    <div style="position: absolute; top: -10px; right: 20px; background: #22D3EE; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold;">
+      📊 LIVE
+    </div>
+    
+  </div>
+  
+  <p style="color: #22D3EE; font-size: 14px; margin-top: 15px;">
+    <em>Follow my coding journey through time</em>
+  </p>
+  
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer"/>
