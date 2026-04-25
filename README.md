@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/ВАШ_ID" width="120" style="border-radius: 50%" alt="Avatar">
+  <img src="https://avatars.githubusercontent.com/u/XandrNiko" width="120" style="border-radius: 50%" alt="Avatar">
   
-  # Привет! Я XandrNiko 👋
+  # XandrNiko 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;C%2B%2B+%26+Python+Enthusiast)](https://git.io/typing-svg)
   
@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table>
@@ -29,10 +29,3 @@
 </div>
 
 ---
-
-## 🔧 Tech Stack
-<!-- Ваши details с технологиями -->
-
----
-
-> _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
