@@ -29,12 +29,13 @@
     <tr>
       <td><img src="https://github-readme-stats.shion.dev/api?username=XandrNiko&theme=dark&hide_border=true&title_color=22D3EE&icon_color=22D3EE" alt="Stats" width="100%"/></td>
       <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XandrNiko&theme=dark&hide_border=true&title_color=22D3EE&layout=compact" alt="Langs" width="100%"/></td>
-      <td><img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Langs" width="100%"/></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=XandrNiko&theme=dark&hide_border=true&ring=22D3EE&fire=22D3EE" alt="Streak" width="100%"/></td>
     </tr>
   </table>
+
+  <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Langs" width="100%"/>
   
   <br>
 </div>
