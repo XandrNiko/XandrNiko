@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/XandrNiko" width="120" style="border-radius: 50%" alt="Avatar">
+  <img src="https://avatars.githubusercontent.com/u/99441694" width="120" style="border-radius: 50%" alt="Avatar">
   
   # XandrNiko 👋
   
