@@ -40,21 +40,11 @@
 ---
 
 <div align="center">
-  
-  ## Contribution Activity
-  
-  <div style="position: relative; display: inline-block; padding: 20px; background: linear-gradient(135deg, rgba(34, 211, 238, 0.1), rgba(124, 58, 237, 0.1)); border-radius: 20px; border: 2px solid #22D3EE; box-shadow: 0 0 40px rgba(34, 211, 238, 0.2);">
-    
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" 
-         alt="Contribution Snake" 
-         width="100%" 
-         style="border-radius: 12px; display: block;"/>
-    
-    <div style="position: absolute; top: -10px; right: 20px; background: #22D3EE; color: #000; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold;">
-      📊 LIVE
-    </div>
-    
-  </div>
+  <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" 
+       alt="Contribution Snake" 
+       width="100%" 
+       style="border-radius: 12px; filter: drop-shadow(0 0 15px rgba(34, 211, 238, 0.5)); transition: all 0.3s ease;"/>
+</div>
   
   <p style="color: #22D3EE; font-size: 14px; margin-top: 15px;">
     <em>Follow my coding journey through time</em>
